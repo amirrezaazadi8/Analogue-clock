@@ -7,6 +7,10 @@ ctx.translate(radius, radius);
 
 radius = radius * 0.9;
 
+setInterval(() => {
+    drawClock()
+}, 1000);
+
 const drawClock = () => {
-    
+
 }
