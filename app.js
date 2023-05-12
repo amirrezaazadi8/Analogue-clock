@@ -10,7 +10,7 @@ setInterval(() => {
 }, 1000);
 
 const drawClock = () => {
-    // drawFace(ctx, radius);
+    drawFace(ctx, radius);
     // drawNumbers(ctx, radius);
     // drawTime(ctx, radius);
 }
